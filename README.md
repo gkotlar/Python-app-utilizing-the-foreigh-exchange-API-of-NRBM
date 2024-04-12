@@ -61,3 +61,17 @@ Python апликација со вградено GUI користејќи ја 
 Во инсталациите на Python вообичаено се спуштени сите библиотеки освен requests библиотеката која корисникот би можел сам да ја превземе користејќи pip.
 
 Потребна е постојана интернет конекција за апликацијата да работи.
+
+Искористена литература:
+https://www.nbrm.mk/content/Instructions_for_utilization_of_the_web_service_of_the_NB_for_the_exchange_rate_list_and_the_exchange_rates_for_government_bodies.pdf
+    * 2. https://www.nbrm.mk/web-servis-novo-en.nspx
+    * 3. Prezentacija: "HTTP-HyperText Transfer Protocol, urllib, httplib во Python" - Вон. проф. Д-р Марко Порјазоски
+    * 4. https://tkinter.com/using-frames-with-menus-python-tkinter-gui-tutorial-47/
+    * 5. https://thepythoncode.com/article/currency-converter-gui-using-tkinter-python
+    * 6. https://pythonguides.com/python-tkinter-table-tutorial/
+    * 7. https://stackoverflow.com/questions/63200167/problem-with-horizontal-scrollbar-in-treeview-tkinter
+    * 8. https://stackoverflow.com/questions/15781802/python-tkinter-clearing-a-frame
+    * 9. https://www.w3schools.com/python/python_dictionaries.asp
+    * 10. https://www.w3schools.com/python/python_try_except.asp
+    * 11. https://www.pythontutorial.net/tkinter/tkinter-radio-button/
+    * 12. https://docs.python.org/3/library/datetime.html
