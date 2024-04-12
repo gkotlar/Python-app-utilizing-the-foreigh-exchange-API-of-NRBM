@@ -23,22 +23,29 @@ Python апликација со вградено GUI користејќи ја 
 Соодветните прозори
 
 * showConversionRatesFrame()
-* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
   
   Се генерира табела која ја прикажува курсната листа за денес.
 
+* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
+  
+
 
 * showConversionCalculatorFrame()
-* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/c0cba39b-cedc-40e9-955c-1765e749cf90)
   
   Прави конверзија на валутите од една селектирана вредност во друга, Односно од македонски денари до било која од понудените валути, или пак обратно од понудените валути во денари.
   Користејќи ја најновата курсна листа која е понудена од НРБМ.
+  
+* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/c0cba39b-cedc-40e9-955c-1765e749cf90)
+  
+
 
 
 * showCurrencyConversionChangeFrame()
+
+ Се генерира табела која ја прикажува настанатата разлика во валутата од почетниот внесен датум до крајниот внесен датум.
+
 * ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/9961ba5b-d1a6-4220-8b2d-55682d1ebf09)
   
-  Се генерира табела која ја прикажува настанатата разлика во валутата од почетниот внесен датум до крајниот внесен датум.
 
 
 Дополнително има фукнции за валидација на внесените дати и покажува error покара доколку корисникот внесе невалидна дата.
