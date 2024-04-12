@@ -16,10 +16,11 @@ Python апликација со вградено GUI користејќи ја 
 Апликацијата нуди 3 прозорци и истите се генерираат со користење на 3 функции кој се повикуваат при соодветно користење на менито.
 
 
-Приказ на менито
+Приказ на менито:
 
 * ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/ee6b7513-1ed7-47ba-aa63-6f5c109388db)
 
+Соодветните прозори
 
 * showConversionRatesFrame()
 * ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
