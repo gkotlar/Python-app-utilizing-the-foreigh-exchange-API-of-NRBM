@@ -64,7 +64,7 @@ Python апликација со вградено GUI користејќи ја 
 
 Искористена литература:
 
-    * https://www.nbrm.mk/content/Instructions_for_utilization_of_the_web_service_of_the_NB_for_the_exchange_rate_list_and_the_exchange_rates_for_government_bodies.pdf
+    * 1. https://www.nbrm.mk/content/Instructions_for_utilization_of_the_web_service_of_the_NB_for_the_exchange_rate_list_and_the_exchange_rates_for_government_bodies.pdf
     * 2. https://www.nbrm.mk/web-servis-novo-en.nspx
     * 3. Prezentacija: "HTTP-HyperText Transfer Protocol, urllib, httplib во Python" - Вон. проф. Д-р Марко Порјазоски
     * 4. https://tkinter.com/using-frames-with-menus-python-tkinter-gui-tutorial-47/
