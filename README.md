@@ -15,6 +15,12 @@ Python апликација со вградено GUI користејќи ја 
 
 Апликацијата нуди 3 прозорци и истите се генерираат со користење на 3 функции кој се повикуваат при соодветно користење на менито.
 
+
+Приказ на менито
+
+* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/ee6b7513-1ed7-47ba-aa63-6f5c109388db)
+
+
 * showConversionRatesFrame()
 * ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
   
@@ -32,6 +38,7 @@ Python апликација со вградено GUI користејќи ја 
 * ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/9961ba5b-d1a6-4220-8b2d-55682d1ebf09)
   
   Се генерира табела која ја прикажува настанатата разлика во валутата од почетниот внесен датум до крајниот внесен датум.
+
 
 Дополнително има фукнции за валидација на внесените дати и покажува error покара доколку корисникот внесе невалидна дата.
   
