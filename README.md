@@ -15,8 +15,8 @@ Python апликација со вградено GUI користејќи ја 
 
 Апликацијата нуди 3 прозорци и истите се генерираат со користење на 3 функции кој се повикуваат при соодветно користење на менито.
 
-*showConversionRatesFrame()
-*![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
+* showConversionRatesFrame()
+* ![image](https://github.com/gkotlar/Python-app-utilizing-the-foreigh-exchange-API-of-NRBM/assets/147694259/dd0fe949-8a45-49c5-856e-ae7363bc5433)
   Се генерира табела која ја прикажува курсната листа за денес
 
 
